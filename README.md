@@ -5,8 +5,8 @@
 
 <div>
 <a href=https://github.com/alexandrepedroza>
-   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alexandrepedroza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexandrepedroza&layout=compact&langs_count=8&theme=dark"/>
+   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alepedroza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alepedroza&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 ##
